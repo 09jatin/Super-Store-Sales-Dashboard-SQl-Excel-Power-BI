@@ -1,0 +1,106 @@
+dashboard-preview.png
+# 📊 Global Superstore Sales Dashboard
+
+An interactive Power BI dashboard built using the Global Superstore dataset to analyze sales performance, profitability, customer segments, products, and regional trends. The dashboard helps identify business insights through interactive visualizations and slicers.
+
+---
+
+## 📌 Project Overview
+
+This project analyzes Global Superstore sales data and provides insights into:
+
+- Total Sales
+- Total Profit
+- Profit Margin
+- Total Orders
+- Total Customers
+- Total Quantity Sold
+- Regional Performance
+- Product Performance
+- Category Analysis
+- Monthly Sales Trend
+- Sales vs Profit Comparison
+
+---
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- PostgreSQL (SQL)
+- Power BI Desktop
+- DAX
+
+---
+
+## 📈 Dashboard Features
+
+- Interactive KPI Cards
+- Dynamic Dashboard Title
+- Category-wise Sales Analysis
+- Top 10 Products by Sales
+- Regional Sales Performance
+- Profit by Customer Segment
+- Monthly Sales Trend
+- Monthly Sales vs Profit Comparison
+- Interactive Slicers
+- Custom Report Tooltip
+
+---
+
+## 📊 KPIs
+
+- Total Sales
+- Total Profit
+- Profit Margin
+- Orders
+- Customers
+- Quantity Sold
+
+---
+
+## 🔍 Business Insights
+
+- Technology generates the highest sales.
+- Consumer segment contributes the largest share of revenue.
+- Sales show seasonal fluctuations across months.
+- A few products contribute significantly to overall sales.
+- Regional performance varies across different markets.
+
+---
+
+## 📂 Project Files
+
+- Global_Superstore_Sales_Dashboard.pbix
+- Superstore Dataset
+- Dashboard Screenshot
+- README.md
+
+---
+
+## 📸 Dashboard Preview
+
+---dashboard-preview.png
+
+
+## 🚀 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- KPI Design
+- Dashboard Design
+- Data Visualization
+- Business Analysis
+- Interactive Reporting
+
+---
+
+## 👨‍💻 Author
+
+**Jatin Patidar**
+
+📧 Email: jatinpatidar606@gmail.com
+
+🔗 LinkedIn: https://linkedin.com/in/jatinpatidar09
+
+🔗 GitHub: https://github.com/<your-github-username>
