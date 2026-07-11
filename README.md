@@ -79,7 +79,7 @@ This project analyzes Global Superstore sales data and provides insights into:
 
 ## 📸 Dashboard Preview
 
----   dashboard-preview.png
+---   https://github.com/09jatin/Super-Store-Sales-Dashboard-SQl-Excel-Power-BI/blob/340c4968cc61cbddac0e669b50857d51b09d0c12/dashboard-preview.png
 
 
 ## 🚀 Skills Demonstrated
