@@ -79,7 +79,7 @@ This project analyzes Global Superstore sales data and provides insights into:
 
 ## 📸 Dashboard Preview
 
----dashboard-preview.png
+---   dashboard-preview.png
 
 
 ## 🚀 Skills Demonstrated
@@ -103,4 +103,6 @@ This project analyzes Global Superstore sales data and provides insights into:
 
 🔗 LinkedIn: https://linkedin.com/in/jatinpatidar09
 
-🔗 GitHub: https://github.com/<your-github-username>
+🔗 GitHub: https://github.com/09jatin
+
+🔗 Portfolio https://portfolio-builder-1--jatinpatidar606.replit.app/
