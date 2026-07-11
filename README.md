@@ -67,6 +67,18 @@ This project analyzes Global Superstore sales data and provides insights into:
 - Regional performance varies across different markets.
 
 ---
+## 📌 Recommendations
+
+- Optimize discount strategies to improve overall profitability.
+- Prioritize inventory for top-selling and high-margin products.
+- Increase marketing efforts in underperforming regions to drive sales growth.
+- Launch weekend promotions to improve weekend sales performance.
+- Strengthen customer loyalty programs to retain high-value customers.
+- Improve Standard Class delivery efficiency while promoting premium shipping options.
+- Plan inventory and marketing campaigns ahead of peak seasons.
+- Review pricing, procurement costs, and discount strategies for consistently loss-making products.
+
+  ---
 
 ## 📂 Project Files
 
