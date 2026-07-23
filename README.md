@@ -1,62 +1,20 @@
-dashboard-preview.png
-# 📊 Global Superstore Sales Dashboard
+# Superstore Sales Dashboard
 
-An interactive Power BI dashboard built using the Global Superstore dataset to analyze sales performance, profitability, customer segments, products, and regional trends. The dashboard helps identify business insights through interactive visualizations and slicers.
+An end-to-end analytics project that transforms 51,000+ raw retail sales records into an interactive Power BI dashboard. Covers the full pipeline: data cleaning and modeling with SQL and Power Query, DAX measure creation, and dashboard design — built to answer real business questions around regional performance, product profitability, and customer trends.
 
----
+## What this dashboard answers
+- Which regions and product categories drive the most profit — and which underperform?
+- How does discounting affect margin across product lines?
+- Who are the highest-value customer segments, and what do they buy?
 
-## 📌 Project Overview
+## Tech Stack
+`SQL` · `Power Query` · `Power BI` · `DAX` · `Excel`
 
-This project analyzes Global Superstore sales data and provides insights into:
-
-- Total Sales
-- Total Profit
-- Profit Margin
-- Total Orders
-- Total Customers
-- Total Quantity Sold
-- Regional Performance
-- Product Performance
-- Category Analysis
-- Monthly Sales Trend
-- Sales vs Profit Comparison
-
----
-
-## 🛠️ Tools Used
-
-- Microsoft Excel
-- PostgreSQL (SQL)
-- Power BI Desktop
-- DAX
-
----
-
-## 📈 Dashboard Features
-
-- Interactive KPI Cards
-- Dynamic Dashboard Title
-- Category-wise Sales Analysis
-- Top 10 Products by Sales
-- Regional Sales Performance
-- Profit by Customer Segment
-- Monthly Sales Trend
-- Monthly Sales vs Profit Comparison
-- Interactive Slicers
-- Custom Report Tooltip
-
----
-
-## 📊 KPIs
-
-- Total Sales
-- Total Profit
-- Profit Margin
-- Orders
-- Customers
-- Quantity Sold
-
----
+## Key Features
+- 10+ KPIs tracked live across sales, profit, and order volume
+- Custom DAX measures for YoY comparisons and profit margin
+- Dynamic slicers and drill-through tooltips for region/category-level detail
+- Cleaned and de-duplicated dataset using SQL and Power Query prior to modeling
 
 ## 🔍 Business Insights
 
