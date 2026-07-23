@@ -49,7 +49,7 @@ An end-to-end analytics project that transforms 51,000+ raw retail sales records
 
 ## 📸 Dashboard Preview
 
----   https://github.com/09jatin/Super-Store-Sales-Dashboard-SQl-Excel-Power-BI/blob/340c4968cc61cbddac0e669b50857d51b09d0c12/dashboard-preview.png
+--- (dashboard-preview.png)
 
 
 ## 🚀 Skills Demonstrated
