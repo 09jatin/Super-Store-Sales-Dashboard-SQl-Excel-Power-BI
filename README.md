@@ -49,7 +49,7 @@ An end-to-end analytics project that transforms 51,000+ raw retail sales records
 
 ## 📸 Dashboard Preview
 
---- (dashboard_preview.png)
+--- images./dashboard_preview.png
 
 
 ## 🚀 Skills Demonstrated
